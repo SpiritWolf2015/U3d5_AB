@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3972665823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4635079e9a064aefd5dced1bf52ee524
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3d1bbda6b47c8af72022fe7ef4d8576
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/NGUI/Examples/Atlases/Wooden/Wooden Atlas.mat
+Dependencies:
+- AssetBundles/Android/wooden_atlas_tex.unity3d

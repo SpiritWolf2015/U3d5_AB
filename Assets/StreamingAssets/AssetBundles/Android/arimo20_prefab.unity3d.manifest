@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2987892248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9961187c73c3bebc5595a7c01bd231e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fac7d034cbb522b7c00116dbb93c19bd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/NGUI/Examples/Atlases/Wooden/Arimo20.prefab
+Dependencies:
+- AssetBundles/Android/wooden_atlas_prefab.unity3d
+- AssetBundles/Android/wooden_atlas_mat.unity3d

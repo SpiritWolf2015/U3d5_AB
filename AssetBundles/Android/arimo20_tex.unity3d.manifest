@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3743045114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bbb0290d8a5dfbfc98f88d976e9b3af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0fd99c5e9ad8f0f80da6ba03142e9c82
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/NGUI/Examples/Atlases/Wooden/Arimo20.tga
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3143652586
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c1c0116e83084958d65b84f3b6e5715
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2177d791fe324b86f1b1efc7669175a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/_GZC/Scene/Indoor/FBX/2014_WSJ_JJ_00.FBX
+- Assets/_GZC/Scene/Indoor/FBX/Materials/2014_WSJ_JJ_00.mat
+- Assets/_GZC/Scene/Indoor/FBX/Texture/2014_WSJ_JJ_00.jpg
+Dependencies: []

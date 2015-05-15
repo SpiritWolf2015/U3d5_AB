@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 636046795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30fa71441d4b7186041b709926c53f9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a8d6b287c63a590ebcb44f8108c2eb9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/NGUI/Examples/Atlases/Wooden/Wooden Atlas.prefab
+Dependencies:
+- AssetBundles/Android/wooden_atlas_mat.unity3d
