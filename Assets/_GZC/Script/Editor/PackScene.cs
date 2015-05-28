@@ -20,8 +20,10 @@ public class PackScene //: AssetPostprocessor
             // 自定义你自己的逻辑。例如：设置过滤选项等。还可以在此进行产生预设的同时产生config，这里就留给读者自己来完成吧。
             string prefabName = o.name + ".prefab";
             PrefabUtility.CreatePrefab(prefabsPath + prefabName, o, ReplacePrefabOptions.ConnectToPrefab);
+            // 把该prefab加到AssetBundles的打包列表中，起好AssetBundle的名字。
             AssetImporter.GetAtPath(prefabsPath + prefabName).assetBundleName = o.name + "_prefab.unity3d";
         }
+        AssetDatabase.Refresh( );
     }
 
 }

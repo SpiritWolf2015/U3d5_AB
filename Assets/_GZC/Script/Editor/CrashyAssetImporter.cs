@@ -2,6 +2,7 @@
 using System.Collections;
 using UnityEditor;
 
+// 这几个函数是从官方英文帮助文档里COPY过来的例子
 
 public class CrashyAssetImporter : AssetPostprocessor {
 
@@ -36,9 +37,9 @@ public class CrashyAssetImporter : AssetPostprocessor {
     static void GetNames ( ) {
         string[] names = AssetDatabase.GetAllAssetBundleNames( );
         foreach (string name in names) {
-            Debug.Log("Asset Bundle: " + name);
-         
+            Debug.Log("Asset Bundle: " + name);         
         }
+        
     }
 
 }
